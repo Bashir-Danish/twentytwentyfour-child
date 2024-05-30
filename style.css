@@ -1,0 +1,14 @@
+/*
+Theme Name: Twenty Twenty-Four Child
+Description: Child theme for Twenty Twenty-Four
+Author: Your Name
+Template: twentytwentyfour
+Version: 1.0.0
+*/
+
+/* #header,#footer{
+    display:none;
+} */
+#app-vue .step-start {
+    margin-top: 7vh;
+}
